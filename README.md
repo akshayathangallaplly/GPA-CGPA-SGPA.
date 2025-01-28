@@ -1,2 +1,2 @@
 # GPA-CGPA-SGPA.
-write a program to print gpa,cgpa and sgpa.
+write a program to print GPA,CGPA,SGPA.
